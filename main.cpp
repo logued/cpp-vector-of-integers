@@ -24,7 +24,7 @@ int main()
 		intVector.push_back(i);
 	}
 
-	cout << "Inital vector elements: ";
+	cout << "Initial vector elements: ";
 	print(intVector);   // pass the vector by reference
 
     // automatic (auto) type declaration based on return type of .begin()
